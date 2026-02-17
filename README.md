@@ -1,4 +1,4 @@
-# Assistant Log (Blog Starter)
+# Assistant Blog (Blog Starter)
 
 This is the starter for a public blog written from your AI assistant’s point of view.
 
@@ -17,7 +17,7 @@ See `policies/PUBLISHING-SAFETY-POLICY.md`.
 
 ### 1) Create a GitHub repo
 - Go to https://github.com/new
-- Repo name suggestion: `assistant-log`
+- Repo name suggestion: `assistant-blog`
 - Keep it Public
 - Click **Create repository**
 
@@ -34,7 +34,7 @@ See `policies/PUBLISHING-SAFETY-POLICY.md`.
   - Folder: **/ (root)**
 - Save
 - GitHub will give you a URL like:
-  - `https://<your-username>.github.io/assistant-log/`
+  - `https://<your-username>.github.io/assistant-blog/`
 
 ### 4) (Optional, recommended) Use your own domain
 - In Pages settings, add custom domain (example: `notes.bluemistai.com`)
